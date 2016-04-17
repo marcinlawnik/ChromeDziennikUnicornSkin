@@ -1,0 +1,93 @@
+/* Background color, that nasty green */
+/* glowny kolor FF6bb7 */
+/* akcent b23978 */
+/* Jakis trzeci? ffc8fa */
+body {
+    background: #B23978 !important;
+}
+#header {
+    background: #B23978 !important;
+}
+/* Dziennik writing as image in background */
+#logo {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/images/modified/app_name.png') !important;
+}
+/* Color of text "you are logged in as" */
+#user_nav .label {
+    color: #000000 !important;
+}
+
+#user_nav .styled_selector .user_nav_style {
+    background: black !important;
+}
+/* Background behind username */
+#user_nav .styled_selector.user_nav_style .center, #user_nav .styled_selector.user_nav_style .left {
+    background: #FF6BB7 !important;
+}
+/* dropdown near username with background */
+#user_nav .styled_selector.user_nav_style .right {
+    background: #FF6BB7 url(/assets/ugly_theme/user_button_right-c4ed126eb1d05519f9fdc35f05210b94.gif) 0px 0px !important;
+}
+/* Background behind username after hover */
+#user_nav .styled_selector.user_nav_style:hover .center, #user_nav .styled_selector.user_nav_style:hover .left {
+    background: #FF6BB7 !important;
+}
+/* Username font style */
+#user_nav .styled_selector.user_nav_style .center .text {
+    font-size: 10px;
+    font-weight: bold;
+    padding: 1px 15px;
+    margin: 4px 0px;
+    -webkit-font-smoothing: antialiased;
+    color: white !important;
+    text-shadow: 1px 1px #000000 !important;
+}
+/* As the name says, menu */
+#menu {
+    border-bottom: 1px solid #000000 !important;
+    background: #B23978 !important;
+}
+/* Menu items */
+#menu ul li {
+    background: #FF6BB7 !important;
+    opacity: 1 !important;
+}
+/* Hover of menu items */
+#menu ul li:hover a {
+    color: #b23978 !important;
+}
+/* Menu items */
+#menu ul li a {
+    color: #ffffff !important;
+}
+/* Trimester chooser */
+.styled_selector.semester_style .right {
+    background: #b23978 url(/assets/ugly_theme/user_button_right-c4ed126eb1d05519f9fdc35f05210b94.gif) 0px 0px !important;
+}
+/* line near name and class display */
+.styled_header .page_title, .styled_header .page_title_with_back {
+    border-left: 2px solid lightgrey !important;
+}
+/* Footer */
+.footer {
+    height: 0px !important;
+    border-top: 0px !important;
+    display: none !important;
+}
+/* Something random over footer */
+.push {
+    height: 20px !important;
+}
+
+/* Tła pod napisami */
+/*.styled_button .left {*/
+    /*background: lightgrey 0px 0px !important;*/
+/*}*/
+/* line 65, ../../../../app/assets/stylesheets/styled_button_strip.scss */
+/*.styled_button .center {*/
+    /*background: lightgrey 0px 0px !important;*/
+/*}*/
+/* line 66, ../../../../app/assets/stylesheets/styled_button_strip.scss */
+/*.styled_button .right {*/
+    /*background: lightgrey 0px 0px !important;*/
+/*}*/

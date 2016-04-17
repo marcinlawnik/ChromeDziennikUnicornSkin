@@ -1,0 +1,58 @@
+/* WHOLE BODY */
+/* głowny kolor FF6BB7 */
+/* akcent B23978 */
+/* Jakis trzeci? ffc8fa */
+#notice_notice {
+    color: #b23978 !important;
+}
+body {
+    background: #FFFFFF !important;
+}
+/* Główne tło */
+#wrapper #centered_bg { background: url('chrome-extension://__MSG_@@extension_id__/images/modified/login_bg.jpg') !important; }
+/* do sprawdzenia */
+/*#wrapper #login_messages { color: #000000 !important; }*/
+/* Napis "Dziennik", napis w obrazku jako background */
+#wrapper #logo { background: url('chrome-extension://__MSG_@@extension_id__/images/modified/login_logo.png') !important; }
+/* Tło pod logami i przyciskiem zaloguj */
+#wrapper #logo_lane { background: #ffc8fa !important; }
+/* Tło pod samym logo, węższe od całego logo_lane */
+/*#wrapper #logo_lane .custom_logo { background: #FFFFFF !important; }*/
+/* Tło pod polami na login i hasło */
+#wrapper #middle .center {
+    background: #ffc8fa !important;
+}
+/* Górny shadow od całego i dolny shadow od inputów (jaśniejszy) */
+#wrapper #middle .shadow_light {
+    background: #FF6bb7 !important;
+    /* display: none !important; */
+}
+/* Dolny shadow od całego i górny shadow od inputów (ciemniejszy) */
+#wrapper #middle .shadow_dark {
+    background: #b23978 !important;
+    /* display: none !important; */
+}
+/* IDK */
+#wrapper #middle #login_form_container { background: #000000 !important; }
+/* Napis login, w obrazku jako background */
+#wrapper #middle #login_form_container #login_login_area_container .login_label, #wrapper #middle #login_form_container #login_password_container .login_label {
+    background: url('chrome-extension://__MSG_@@extension_id__/images/modified/login_login_label.png') !important;
+}
+/* Napis hasło, w obrazku */
+#wrapper #middle #login_form_container #login_login_area_container .password_label, #wrapper #middle #login_form_container #login_password_container .password_label {
+    background: url('chrome-extension://__MSG_@@extension_id__/images/modified/login_password_label.png') !important;
+}
+/* Wypełnienie inputów do loginu i hasła */
+#wrapper #middle #login_form_container #login_login_area_container .login_input .styled_login_input, #wrapper #middle #login_form_container #login_login_area_container .login_input .styled_password_input, #wrapper #middle #login_form_container #login_login_area_container .password_input .styled_login_input, #wrapper #middle #login_form_container #login_login_area_container .password_input .styled_password_input, #wrapper #middle #login_form_container #login_password_container .login_input .styled_login_input, #wrapper #middle #login_form_container #login_password_container .login_input .styled_password_input, #wrapper #middle #login_form_container #login_password_container .password_input .styled_login_input, #wrapper #middle #login_form_container #login_password_container .password_input .styled_password_input {
+    border: #000000 !important;
+    background: #FFFFFF !important;
+}
+/* Napis zaloguj, jako background w obrazku */
+#wrapper #middle #login_form_container #login_submit_container .styled_login_button {
+    background: url('chrome-extension://__MSG_@@extension_id__/images/modified/login_submit_button.png') !important;
+}
+/* Przezroczystość napisu zaloguj po najechaniu */
+#wrapper #middle #login_form_container #login_submit_container .styled_login_button:hover {
+    /*cursor: pointer;*/
+    /*opacity: 0.1 !important;*/
+}
