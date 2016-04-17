@@ -1,28 +1,24 @@
 # ChromeDziennikSimpleSkin
 
-This project changes the look of the "dziennik.ekos.edu.pl" website.
-It's aim is to get rid of all of the green and just use a plain white-grey-black theme.
+This project changes the look of the login page of "dziennik.ekos.edu.pl" website.
+It uses pink and falling unicorns.
 
-Ten projekt zmienia wygląd strony dziennik.ekos.edu.pl.
-Jego celem jest całkowite pozbycie się zielonego i wstawienie prostego, biało-szaro-czarnego wyglądu.
+Ten projekt zmienia wygląd strony logowania dziennik.ekos.edu.pl.
+Używa różowego i spadających jednorożców.
 
 ### Available for free at the Chrome Web Store:
 
-[ChromeDziennikSimpleSkin](https://chrome.google.com/webstore/detail/chromedzienniksimpleskin/bohghidmmhgihlcndmhjkcicbdpjlbab)
+[ChromeDziennikUnicornSkin](https://chrome.google.com/webstore/detail/chromedziennikunicornskin/bndheocniiokibdckkcmnegfgolkdlfb)
 
 ## Screenshots
 
-> ![Login](https://lh3.googleusercontent.com/lITUbXZ7v-ngjHiKzhYbNrP3RA6MMlhdwBhAyZ6gXLlEYjbc5fOoTyosYrCIqOn3pZsH7ikrrIU=s640-h400-e365-rw)
-
-> ![Messages](https://lh3.googleusercontent.com/cYO5KZBI91wmOx5eX1b9QYxPb-Pn51IhlLrZxkknW3ExGAEufdBK_Z2X9VOnltWN1Z8oImXdpsI=s640-h400-e365-rw)
-
-> ![Timetable](https://lh3.googleusercontent.com/IVSiWUTGKkELYE1WP-zJ-ahewH5hDSP4Ld5L2hmmmTkmHrSY5jy_jyvA0tRLfld_wAsTCFp_=s640-h400-e365-rw)
+> ![Login](https://lh3.googleusercontent.com/7CMKm7-4vQvmmXKJnLO9pKwJ5DHRqriva5jO4ORlKWFkmR7IIhndPvfQZHTso4ayOwSXioiz=s640-h400-e365-rw)
 
 ## Installation
 
 Through Web Store:
 
-1. Browse to: [ChromeDziennikSimpleSkin](https://chrome.google.com/webstore/detail/chromedzienniksimpleskin/bohghidmmhgihlcndmhjkcicbdpjlbab)
+1. Browse to: [ChromeDziennikUnicornSkin](https://chrome.google.com/webstore/detail/chromedziennikunicornskin/bndheocniiokibdckkcmnegfgolkdlfb)
 2. Click Install.
 
 Manual (for modification/debugging):
@@ -55,7 +51,7 @@ Just install, works as is!
 
 ## History
 
-One lazy afternoon, just because the green annoyed me ;)
+One lazy afternoon, just because I can and had most of the work done from previous extension ;)
 
 ## Credits
 
